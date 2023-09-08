@@ -1,6 +1,6 @@
 # Data Professional Survey Breakdown 
 
-This analaysis aimed to address four key inquiries: determining the average salary within specific data-related roles, identifying the tools commonly utilized by data professionals, how easy to break into the data field, and evaluating job satisfaction and work-life balance among respondents. The visualizations were constructed using Power BI.
+This analysis aimed to address four key inquiries: determining the average salary within specific data-related roles, identifying the tools commonly utilized by data professionals, how easy to break into the data field, and evaluating job satisfaction and work-life balance among respondents. The visualizations were constructed using Power BI.
 
 DATA CLEANSING AND PREPROCESSING
 
